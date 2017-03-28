@@ -11,7 +11,7 @@ AC Aviation Maintenance Department
 <!--    :maxdepth: 3 -->
 <!--    :caption: Contents: -->
 
-## Contents
-   - [General Information] (/sources/General_Information.rst)
-   - [Introduction] (/sources/Introduction.rst)
-   - [Part of Inspection] (/source/Part_of_Inspection.rst)
+# Contents
+   - [x] [General Information](/source/General_Information.rst)
+   - [ ] [Introduction](/source/Introduction.rst)
+   - [ ] [Part of Inspection](/source/Part_of_Inspection.rst)
