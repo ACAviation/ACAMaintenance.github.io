@@ -489,3 +489,608 @@ D. The inspections contained in the Schedule are to be completed in accordance w
            :scale: 50%
            :alt: Inspection_Instructions
            :align: center
+
+F. Sign Off Requirements
+------------------------
+
+.. Note:: The sign off requirements are based upon the method of
+          scheduled maintenance accomplishment.
+
+*When an inspection group is NOT phased*
+
+* Each inspection must be accomplished, but only the top level form
+  requires completion.
+
+* No inspection sign off is required.
+
+
+*When an inspection group is phased*
+
+* Each inspection must be signed off as a top-level inspection. Each
+  inspection is then tracked with the appropriate interval.
+
+* No overall top level sign off is required.
+
+Continued Airworthiness Requirements
+====================================
+
+AC AVIATION Company should institute a system for the assessment of
+continuing airworthiness information. This information will originate
+from the Responsible Authority of the State of Manufacture in the form
+of Airworthiness Directives (or documents of comparable intent) and
+from the constructor/manufacturer in the form of Service Bulletins,
+Letters, Safety Communiques, Information Leaflets etc. resulting from
+In-Service experience.
+
+AC AVIATION Company should add items to this Schedule to cover their
+special installations or equipment, and to make provision for any
+regulation, national or local, in force at the time.
+
+Nothing in this Schedule is to be construed as absolving persons
+employed in the implementation of the requirements of this Schedule
+from making sure that the airplane is, at all times, maintained in an
+airworthy condition. Any damage or defect affecting the safety of the
+airplane must be rectified before the airplane flies again.
+
+Compliance with the mandatory requirements of the Responsible
+Authority of the country of origin must be achieved.
+
+When referring to all parts within the Schedule the Operator should
+use only those items relevant to his own airplane and disregard all
+other items.
+
+Continuing Airworthiness and other Service Information must be
+continuously evaluated AC AVIATION Company or his contracted
+maintenance organization and, where necessary, appropriate action must
+be taken to amend the Maintenance Schedule.
+
+A. At each periodic inspection the depth of inspection must:
+------------------------------------------------------------
+
+(1) Be of a degree sufficient to make sure that the items to be
+    inspected will remain serviceable until the next higher period for
+    inspection becomes due.
+
+(2) Make sure that at the time of the inspection items are free from
+    any defects likely to affect airworthiness. The inspections made
+    to assure this must comply with the minimum standards set out
+    hereunder, having regard to the material from which the item is
+    made and applying the appropriate standards wherever possible.
+
+
+.. Note:: In general, when dismantling and access is known to be
+          required by this Schedule, this is stated against the item
+          concerned.
+
+.. Note:: Due to different equipment fits between airplanes and in
+          order to achieve a satisfactory exposure of the area/item to
+          be inspected, it may be necessary to displace/remove other
+          items, (e.g. electrical cables, piping, fittings etc.) which
+          are not stated in the Schedule.
+
+.. Note:: Access requirements quoted are minimum requirements and
+          further dismantling of an item, group or assembly may be
+          considered essential by the Chief Inspector or a Licensed
+          Aircraft Maintenance Engineer in order to assure
+          airworthiness.
+
+.. Note:: Structure is to be sufficiently clean to enable an effective
+          inspection to be done.
+
+B. A series of standard terms are used throughout the schedule to indicate the inspection requirements. Their interpretations are as follows:
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+(1) Area Inspection... A visual inspection of the area using the
+    inspection criteria as detailed in paragraph 6.C. for all items of
+    equipment in the area relating to the trade disciplines listed and
+    access quoted. The depth of the area inspection is determined by
+    the degree of access specified for the particular inspection
+    period and the structure rendered visible at that time.
+
+(2) Satisfactory Condition... A general visual inspection for signs of
+    damage, cleanliness, security of attachment and visible
+    connections, locking and bonding.
+
+
+(4) Detail Inspect... An intensive visual examination of a specific
+    structural area, system, installation or assembly to detect
+    damage, failure or irregularity. Available lighting is normally
+    supplemented with a direct source of good lighting at intensity
+    deemed appropriate by the inspector. Inspection aids such as a
+    mirror, magnifying lenses, etc. or an approved NDT technique may
+    be used. A 10X Lighted Magnifier should be used to inspect all
+    instances of suspected wire damage. All wire related conditions
+    should be reported using the ATA spec 100, code 97-xx-xx
+    format. Surface cleaning and elaborate access procedures may be
+    required.
+
+(5) Check... Make a comparison of a measurement of time, pressure,
+    temperature, resistance, dimension or quantity with a known figure
+    for that measurement.
+
+(6) Test... The component to be tested may be removed from the
+    airplane or checked in situ. All the work is to be done in
+    accordance with the data contained in the relevant Vendor
+    Maintenance Manual.
+
+(7) Functional Test... Make sure, by use of test equipment if
+    necessary, that a complete system functions correctly. (8)
+    Operational Test... Make sure, by use of test equipment if
+    necessary, that a component within a system OR part
+
+of a system operates correctly.
+
+(9) Detailed Walk-Around Inspection... This inspection is to be a
+    thorough visual inspection of the airplane which does not require
+    removal of access panels, use of specialized tools or
+    equipment. Lighting and cleanliness is to be adequate to detect
+    damage, failure or irregularity. Suspect conditions requiring
+    additional investigation are to be treated as defined in "Detail
+    Inspect" (Ref. Paragraph (4)).
+
+
+C. The inspection criteria are:
+-------------------------------
+
+(1) Metal parts: e.g. applicable to all metal parts, bodies or casings
+    of units in systems and in electrical, instrument and radio
+    installations, metal pipes, ducting, tubes, rods, levers.
+
+    (a) Inspect for:
+
+    Cleanliness, external signs of damage, leaks, overheating or
+    discharge. Fluid ingress. Obstruction of drainage or vent holes or
+    overflow pipe orifices. Correct seating and sealing of fairings and
+    serviceability of fasteners. Security of attachment, fasteners,
+    connections, locking and bonding.
+
+    (b) Freedom from:
+
+    Distortion, dents, scores, chafing, pulled or missing fasteners,
+    rivets, bolts, screws. Signs of cracks and wear. Separation of
+    bond. Failure of welds and spot welds. Deterioration of protective
+    treatment, and signs of corrosion.
+
+(2) Rubber, Fabric, Fibre Glass and Plastic Parts e.g. coverings,
+    ducting, flexible pipes, flexible mountings, seals, heater muffs,
+    windows etc.:
+
+    (a) Inspect for:
+
+    Cleanliness, cracks, cuts, chafing, kinking, twisting, crushing,
+    contraction - sufficient free length. Deterioration. Crazing. Loss of
+    flexibility (other than fabric covered component), overheating. Fluid
+    soakage.
+
+    Security of attachment (supports, packing and electrical bonding
+    correctly positioned, serviceable and secure) connections and locking.
+
+(3) Control system components:
+
+    (a) Inspect for:
+
+    Correct alignment - no fouling. Free movement. Distortion. Signs of
+    bowing. Scores. Chafing. Fraying. Kinking. Signs of
+    wear. Flattening. Cracks. Loose rivets. Deterioration of protective
+    treatment and signs of corrosion. Electrical bonding correctly
+    positioned, undamaged and secure. Attachments, end connections and
+    locking secure.
+
+.. Note:: Free movement should be established at extreme ranges of
+          travel with full trim applied.
+
+.. Note:: Full travel of the rudder circuit should be confirmed with
+          the pedals at the full forward and full aft adjustment
+          positions.
+
+(4) Electrical Motors, Alternators, Generators and Actuators:
+
+    (a) Inspect for:
+
+    Cleanliness, obvious damage, signs of overheating, signs of
+    corrosion and security of attachments and connections. If
+    protective covers are required to be removed: cleanliness,
+    scoring, pitting, brushes free in holders, not excessively worn
+    and correct bedding. Adequate spring tension. Overheating. Fluid
+    ingress.
+
+(5) Relays, Solenoids and Contactors:
+
+    Inspect for:
+
+    Cleanliness, obvious damage, signs of overheating, signs of
+    corrosion and security of attachments and connections. If
+    protective covers are required to be removed: cleanliness, pitting
+    or burning of contacts, signs of overheating and security of
+    contacts exposed.
+
+(6) Markings, notices, frequency charts, compass corrector cards,
+    warning and caution labels, placards:
+
+ (a) Inspect for:
+
+    Legibility and security of attachment.
+
+.. Note:: Any other inspection or work requirement not covered by the
+          above standards is specifically written into the Schedule.
+
+
+(7) Electrical Wiring, Cables and Looms:
+
+    (a) Detail Inspect for:
+
+    Criteria contained in AMM 125/H-20 Chapter 20 - Standard
+    Practices - Airframe, 20-10-50, Wiring Procedures and Repair.
+
+(8) Structural Inspection
+
+    (a) Detail inspect lap joints, butt straps, stringers, frames,
+        bulkheads, ribs, longerons and skins for:
+
+        Lack of adhesion of the paint or sealant. This could indicate the
+        presence of surface corrosion under the paint film or sealant.
+
+        Bubbles or eruption of the paint film or sealant. This condition
+        could indicate local pockets of corrosion and it is important to
+        ascertain, beyond reasonable doubt, that any bubble or eruption
+        found is a build up of paint or sealant and not a build up of
+        corrosion product. If any doubt exists the bubble or eruption
+        should be broken, the area cleaned up and, if satisfactory, the
+        treatment restored.
+
+        Signs of corrosion on the edge of any member where it joins the
+        skin. If corrosion is found the suspect area of the joint must be
+        cleaned of all paint. Where corrosion is confirmed and it
+        penetrates between the faying surfaces of the joint, the affected
+        area must be visually examined by removing bolts or rivets to
+        check the extent of corrosion and to assist in repair.
+
+        Any signs of possible cracking or corrosion is to be stripped of
+        paint and inspected further using dye penetrant.
+
+    (b) Non Destructive Testing (NDT).
+
+        Where it is considered that a visual inspection is not possible
+        due to the nature of the structure, or an excessive amount of
+        dismantling would be necessary, examination by X-ray or other
+        methods of non-destructive testing in accordance with the approved
+        techniques is used as the inspection medium. The techniques are
+        contained within the Non-destructive Testing Manual.
+
+
+D. Maintenance Practices and Procedures
+---------------------------------------
+
+Practices and procedures necessary to complete the requirements of
+this Maintenance Schedule or work resulting from its application
+should be, as a minimum, to the standard recommended in:
+
+  (1) The relevant Maintenance, Overhaul and Repair Manuals.
+
+  (2) The requirements of the Airworthiness Authority.
+
+
+E. All Vital Points and Control Systems
+---------------------------------------
+
+Whenever inspections are made or work is undertaken on vital
+points, flying or engine control systems, a detailed investigation
+must be made on completion of the task to make sure that all tools,
+rags or any other loose articles which could impede the free
+movement and safe operation of the system(s) have been removed, and
+that the systems and installation in the work area are clean and
+unobstructed.
+
+If, as a result of the application of this Schedule, any part of
+either the main or any associated system is dismantled, adjusted,
+repaired or renewed, that part of the system(s) which has been
+disturbed shall be subjected to a duplicate inspection, with free
+movement, range, direction and tension checks and shall be
+certified in accordance with the requirements of CAAT.
+
+
+F. Wear Limits on All Flying Control and Engine Control Cables
+--------------------------------------------------------------
+
+ Whenever flying control or engine control cables are required to be
+ inspected in accordance with this Maintenance Schedule, the following
+ wear limits apply:
+
+(1) Significant wear on outer wires but obviously less than 50% of
+    individual wire cross section and with individual wires clearly
+    separated can be considered as acceptable.
+
+(2) Wear on outer wires at 50% or more, usually indicated by
+    difficulty in distinguishing individual wires, and wear area
+    embracing 6 consecutive wires, raise and carry forward for
+    repeat inspection at not more than 300 flying hour periods.
+
+(3) Wear on outer wires at 50% or more and not more than 3 broken
+    wires at any wear position - change within 30 flying hours.(4)
+    Wear or damage in excess of para. (3) - change cable.
+
+(5) Where the possibility of failed wires bunching around pulleys
+    etc. can occur, the cable must be changed, irrespective of the
+    extent of any other damage.
+
+(6) On sleeved cables, up to 50% wear of the sleeve thickness is
+    acceptable. To clarify a difference in terminology, "Swaged
+    tubes" and "Sleeved cables" are physically the same thing.
+
+
+G. Fuel System Contamination Checks
+-----------------------------------
+
+If, as a result of the application of this Maintenance Schedule any
+part of the system is dismantled, adjusted, modified, repaired or
+renewed, the systems shall, after completion of the work, be tested
+to establish the correct operation of the system.
+
+The following checks must be made to establish that the fuel
+systems are free from contamination.
+
+  (1) Fuel system water drain checks are to be performed at periods
+      not exceeding 24 hours elapsed time.
+
+
+  (2) AC AVIATION Company must be satisfied with the quality of all
+
+      fuel taken on board his airplane, specially in respect of
+
+      contamination with water, and monitor the suppliers quality
+
+      performance.
+
+H. Portable Valise Type Liferafts
+---------------------------------
+
+At the appropriate Overhaul period ten percent of all liferafts
+installed in fleets using a system bottle and release mechanism are to
+be inflated and tested. Make sure that deployment and inflation is
+satisfactory.
+
+SCHEDULE FORMAT
+===============
+
+A. Minor and Routine Inspections
+--------------------------------
+
+The requirements of the Minor and Routine Inspections are divided into
+airplane areas, system and component requirements:
+
+  (1) Area Inspections
+
+      The area inspections require a visual inspection of the area using
+      the inspection criteria as detailed in paragraph 6.C. for all items
+      of equipment in the area relating to the trade disciplines listed
+      and access quoted. The depth of the area inspection is determined by
+      the degree of access specified for the particular inspection period
+      and the structure rendered visible at that time.
+
+  (2) System and Components Requirements.
+
+      These sub-sections give the inspection and servicing requirements of
+      specific systems and components at the inspection period under
+      consideration. The requirements are laid out in ATA 100 chapter
+      order.
+
+      System functional tests are given at the beginning of each
+      Inspection and are presented in ATA 100 chapter order. When a
+      requirement in this Schedule refers to an AMM sub-paragraph or
+      specific step(s) then all relevant warnings, cautions and
+      preparatory procedures must be observed.
+
+      Overhaul periods, servicing and bench tests for non-RAC manufactured
+      components are governed by the maintenance manuals of the respective
+      manufacturers. Where possible, to aid Operators with their
+      inspection of these components, the Aircraft Maintenance Manual is
+      used as a reference for removal and installation.
+
+
+B. Structural Inspections
+-------------------------
+
+The Structural Inspectionqs are also divided into airplane areas, with each area containing the inspection requirements and "Not exceed" periods for specific structural parts. The degree of access required is stipulated for each inspection requirement.
+
+C. Out of Phase Inspections
+---------------------------
+
+The Out of Phase Inspections are presented in ATA 100 chapter
+order. The "Not exceed" period for the inspection(s) are stated in the
+individual tasks.
+
+D. Special Incident Inspections
+-------------------------------
+
+This Part contains the special inspections considered necessary if the
+airplane has been subjected to abnormal stresses or climatic
+conditions in flight, or during landing.
+
+E. Panel Location Charts
+------------------------
+
+The charts contained within this Part illustrate the location of
+panels which may be required to be removed or opened during airplane
+servicing.
+
+F. Lubrication
+--------------
+
+Details of routine lubrication and types of lubricants used are
+detailed in the text and illustrations contained within this Part. The
+AMM references of the lubricants used for general lubrication,
+together with a system of codes denoting lubrication periods, are
+tabulated in the Introduction at the beginning of the Part. The AMM
+references of special purpose lubricants used for specific
+applications are included in the relevant text and illustrations.
+
+G. Component Requirements
+-------------------------
+
+Listed within this part are components or assemblies which are subject
+to hard-time overhaul periods, bench tests or replacement out of phase
+with the airplane servicing periods. The consolidated list is given
+under system headings in ATA 100 chapter order, and includes Part
+Nos. and the names of the manufacturers.
+
+Where the part number of a component is followed by an asterisk(s)
+(e.g. 42022-\*\*) this indicates that the requirement is applicable to
+all variants.
+
+H. Mandatory Life Limitations
+-----------------------------
+
+The components and assemblies subject to Mandatory Life Limitations
+are now contained in the Airworthiness Limitations Document Reference
+No. CJE-HPA-C-GEN-AW1667.
+
+Abbreviations, Terms And Definitions
+====================================
+
+All significant terms and abbreviations used within the Schedule are
+defined below or, in the absence of formal definitions; those quoted
+in the World Airlines Technical Operations Glossary are used.
+
++--------------------+--------------------+
+|AMM                 |Aircraft Maintenance|
+|                    |Manual.             |
++--------------------+--------------------+
+|B/Chk               |Bench check.        |
++--------------------+--------------------+
+|CMM                 |Component           |
+|                    |Maintenance Manual. |
++--------------------+--------------------+
+|DTD                 |Directorate of      |
+|                    |Technical           |
+|                    |Development (UK)    |
+|                    |specification.      |
++--------------------+--------------------+
+|ICAO                |International Civil |
+|                    |Aviation            |
+|                    |Organization.       |
++--------------------+--------------------+
+|ISB                 |Inspection Service  |
+|                    |Bulletin.           |
++--------------------+--------------------+
+|LMM                 |Light Maintenance   |
+|                    |Manual.             |
++--------------------+--------------------+
+|MM                  |Maintenance Manual. |
++--------------------+--------------------+
+|MIL                 |Military (ICAO and  |
+|                    |US) specification.  |
++--------------------+--------------------+
+|NDT                 |Non-destructive     |
+|                    |Test.               |
++--------------------+--------------------+
+|O/H                 |Overhaul.           |
++--------------------+--------------------+
+|Repl.               |Replace.            |
++--------------------+--------------------+
+|SB                  |Service Bulletin.   |
++--------------------+--------------------+
+|AD                  |Airworthiness       |
+|                    |Directive           |
++--------------------+--------------------+
+|CAAT                |Civil Aviation      |
+|                    |Authority Of        |
+|                    |Thailand            |
++--------------------+--------------------+
+|DCA                 |Department Of Civil |
+|                    |Aviation            |
++--------------------+--------------------+
+
+Additional Requirements Introduced By Revision Action
+=====================================================
+
+Unless otherwise directed by the relevant Letter of Transmittal, or
+Service Bulletin action, additional requirements introduced into the
+Schedule need not be added into an airplanes existing cycle of
+maintenance until the next period at which the requirement becomes
+due.
+
+Samples Of Flexible Maintenance Charts.
+=======================================
+
+A. Chart 1 (Figure 1, Sheets 1 and 2)
+-------------------------------------
+
+This chart shows conventional servicing when ALL of the Inspection
+requirements are done at one time, e.g.
+
+* Inspection B (B1 to B12 inclusive) done at 800 Hour, 1600 Hour, 2400
+  Hour Etc.
+
+* Inspection C (C1 to C12 inclusive) done at 1600 Hour, 3200 Hour,
+  4800 Hour Etc.
+
+* Inspection D (D1 to D12 inclusive) done at 3200 Hour, 6400 Hour,
+  9600 Hour Etc.
+
+* Inspection E (E1 to E12 inclusive) done at 12 Months, 24 Months, 36
+  months, 48 Months Etc.
+
+* Inspection F (F1 to F12 inclusive) done at 24 Months, 48 Months Etc.
+
+
+B. Chart 2 (Figure 2, Sheets 1, 2, 3, and 4)
+--------------------------------------------
+
+This chart shows one suggested flexible method of staggering the
+sub-inspections.
+
+.. image:: /images/AMP/Flexible_Maintenance_Chart_by_Hour.png
+           :scale: 60%
+           :alt: Flexible_Maintenance_Chart_by_Hour
+           :align: center
+
+Figure 1: Sheet 1--Flexible Maintenance Chart by Hour
+
+.. image:: /images/AMP/Flexible_Maintenance_Chart_by_Month.png
+           :scale: 60%
+           :alt: Flexible_Maintenance_Chart_by_Month
+           :align: center
+
+Figure 1: Sheet 2--Flexible Maintenance Chart by Month
+
+.. image:: /images/AMP/Flexible_Servicing_by_Hour_Sheet1.png
+           :scale: 60%
+           :alt: Flexible_Servicing_by_Hour_Sheet1
+           :align: center
+
+Figure 2: Sheet 1--Felxible Servicing by Hour
+
+.. image:: /images/AMP/Felxible_Servicing_by_Hour_Sheet2.png
+           :scale: 60%
+           :alt: Felxible_Servicing_by_Hour_Sheet2
+           :align: center
+
+Figure 2: Sheet 2--Felxible Servicing by Hour
+
+.. image:: /images/AMP/Felxible_Servicing_by_Month_Sheet3.png
+           :scale: 60%
+           :alt: Felxible Servicing by Month
+           :align: center
+
+Figure 2: Sheet 3--Felxible Servicing by Month
+
+.. image:: /images/AMP/Flexible_Servicing_by_Month_Sheet4.png
+           :scale: 60%
+           :alt: Felxible_Servicing_by_Month_Sheet4
+           :align: center
+
+Figure 2: Sheet 4--Felxible Servicing by Month
+
+.. image:: /images/AMP/ATA_Task_Code_1.png
+           :scale: 60%
+           :alt: ATA_Task_Code_1
+           :align: center
+
+Figure 3: ATA Task Codes (1)
+
+.. image:: /images/AMP/ATA_Task_Code_2.png
+           :scale: 60%
+           :alt: ATA_Task_Code_2
+           :align: center
+
+Figure 3: ATA Task Codes (2)
